@@ -2,7 +2,18 @@
 
 **IBM SkillsBuild University Engagement · AICTE 2026 · Problem Statement #27**
 
-An agentic AI system that monitors patients with chronic diseases (diabetes, hypertension, cardiac conditions) in real time using multi-agent orchestration, RAG-grounded medical knowledge, and IBM Granite on watsonx.ai.
+The Challenge  - An AI agent for chronic disease monitoring helps patients and healthcare providers 
+manage long-term conditions effectively. 
+It continuously analyzes health data from wearables, medical records, and patient inputs to detect early 
+warning signs. 
+Using AI and predictive analytics, it offers personalized insights, medication reminders, and lifestyle 
+recommendations. 
+The agent supports diseases like diabetes, hypertension, and heart conditions with real-time monitoring 
+and alerts. 
+It enables proactive care, reduces hospital visits, and improves patient adherence to treatment plans. 
+This intelligent assistant bridges the gap between patients and providers, enhancing chronic care 
+outcomes. 
+Technology - Use of IBM cloud lite services /IBM Granity is mandatory.
 
 ---
 
@@ -30,7 +41,7 @@ Disclaimor: Current prototype stores patient history in CSV files.Future deploym
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/carewatch-ai
+git clone https://github.com/ay-sha-07/carewatch-ai
 cd carewatch-ai
 ```
 
@@ -110,16 +121,6 @@ carewatch/
 ├── requirements.txt
 └── .env.example
 ```
-
----
-
-## IBM Submission Checklist
-
-- [x] `app.json` — project metadata
-- [ ] `yourproblemstatement.pdf` — export your PPTX as PDF and rename
-- [ ] `CareWatch_AI_Chronic_Disease_Monitoring.pptx` — filled submission template
-- [ ] All source code files (this repo)
-
 ---
 
 *Built for IBM SkillsBuild University Engagement · AICTE 2026*
