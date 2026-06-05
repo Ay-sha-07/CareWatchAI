@@ -8,7 +8,7 @@ An agentic AI system that monitors patients with chronic diseases (diabetes, hyp
 
 ## Architecture
 
-<img width="700" height="550" alt="image" src="https://github.com/user-attachments/assets/af112196-9655-488d-8a53-86c5e36e4908" />
+<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/af112196-9655-488d-8a53-86c5e36e4908" />
 
 ## Tech Stack
 
