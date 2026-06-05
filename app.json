@@ -1,0 +1,41 @@
+{
+  "name": "CareWatch AI",
+  "description": "An agentic AI system for chronic disease monitoring that uses multi-agent orchestration (CrewAI), RAG-based medical knowledge retrieval (ChromaDB + IBM Granite embeddings), and predictive analytics to monitor patients with diabetes, hypertension, and cardiac conditions in real time.",
+  "problem_statement": "Problem Statement No. 27 – AI Agent for Chronic Disease Monitoring",
+  "domain": "Healthcare",
+  "technology": {
+    "llm": "IBM Granite (ibm/granite-3-2-8b-instruct)",
+    "platform": "IBM watsonx.ai",
+    "cloud": "IBM Cloud Lite",
+    "agent_framework": "CrewAI + LangChain",
+    "vector_db": "ChromaDB",
+    "backend": "FastAPI",
+    "frontend": "React + Recharts"
+  },
+  "agents": [
+    {
+      "name": "Ingestion Agent",
+      "role": "Normalizes and validates patient wearable data streams"
+    },
+    {
+      "name": "Analysis Agent",
+      "role": "Performs anomaly detection and risk assessment on vitals"
+    },
+    {
+      "name": "RAG Knowledge Agent",
+      "role": "Retrieves evidence-based guidelines from WHO, ICMR, AHA"
+    },
+    {
+      "name": "Alert & Recommendation Agent",
+      "role": "Generates dual-mode outputs for patients and doctors"
+    }
+  ],
+  "diseases_covered": ["Diabetes", "Hypertension", "Cardiovascular disease"],
+  "repository": "https://github.com/YOUR_USERNAME/carewatch-ai",
+  "team": {
+    "student_name": "YOUR NAME",
+    "email": "YOUR EMAIL",
+    "institution": "YOUR INSTITUTION",
+    "mobile": "YOUR MOBILE"
+  }
+}
