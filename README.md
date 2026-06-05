@@ -8,6 +8,8 @@ An agentic AI system that monitors patients with chronic diseases (diabetes, hyp
 
 ## Architecture
 
+Disclaimor: Current prototype stores patient history in CSV files.Future deployment replaces this with Cloudant/PostgreSQL.
+
 <img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/af112196-9655-488d-8a53-86c5e36e4908" />
 
 ## Tech Stack
