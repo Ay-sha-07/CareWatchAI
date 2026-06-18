@@ -23,7 +23,7 @@ Disclaimor: Current prototype stores patient history in CSV files.Future deploym
 
 <img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/af112196-9655-488d-8a53-86c5e36e4908" />
 
-## Tech Stack
+## Tech Stack 
 
 | Component         | Technology                              |
 |-------------------|-----------------------------------------|
