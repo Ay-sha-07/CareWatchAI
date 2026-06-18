@@ -2,7 +2,7 @@
 
 **IBM SkillsBuild University Engagement · AICTE 2026 · Problem Statement #27**
 
-The Challenge  - An AI agent for chronic disease monitoring helps patients and healthcare providers 
+The Challenge - An AI agent for chronic disease monitoring helps patients and healthcare providers 
 manage long-term conditions effectively. 
 It continuously analyzes health data from wearables, medical records, and patient inputs to detect early 
 warning signs. 
